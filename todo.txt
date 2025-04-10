@@ -1,5 +1,5 @@
 TODO List:
-- Learn Git branching
+- Learn Git branching my
 - Push code to GitHub
 - Learn Git branching
 - Push code to GitHub
